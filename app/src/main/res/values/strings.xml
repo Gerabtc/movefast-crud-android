@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">movefastcrud</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="confirmaSenha">Confirmasenha</string>
+    <string name="login">Login</string>
+    <string name="preco_final">Preço final:</string>
+    <string name="realizar_pagamento">Realizar pagamento</string>
+    <string name="imagem_do_pacote">imagem do pacote</string>
+    <string name="mascara_nome_no_cartao">abcdefghijklmnopqrstuvwxyzçABCDEFGHIJKLMNOPQRSTUVWXYZÇ\u0020</string>
+    <string name="orientacao_pagamento">Digite as informações do cartão de crédito que você deseja usar para o pagamento</string>
+    <string name="mes_do_cartao">MM</string>
+    <string name="numero_do_cartao">Número do cartão</string>
+    <string name="valor_da_compra">Valor da compra:</string>
+    <string name="ano_do_cartao">AA</string>
+    <string name="cvc_do_cartao">CVC</string>
+    <string name="finalizar_compra">Finalizar compra</string>
+    <string name="nome_no_cartao">Nome no cartão</string>
+    <string name="banner_inicial">banner_inicial</string>
+</resources>
