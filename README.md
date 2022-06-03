@@ -40,19 +40,19 @@
 <ul align="left">
 <li>[x] Pequenas empresas, vendedores autônomos e entregadores podem se cadastrar direto no app:</li>
 <li>[x] Cadastro vendedor</li>
-<li>[ ] seleciona o destino do produto</li>
-	<li>[ ] tira a foto do produto</li>
-	<li>[ ] faz uma pequena descrição do produto</li>
-	<li>[ ] envia mensagem para o entregar e o cliente</li>
+<blockquote><li>[ ] Selecionar o destino do produto</li></blockquote>
+<blockquote><li>[ ] Tirar a foto do produto</li></blockquote>
+<blockquote><li>[ ] Fazer uma pequena descrição do produto</li></blockquote>
+<blockquote><li>[ ] Enviar mensagem para o entregar e o cliente</li></blockquote>
 <li>[ ] Cadastro entregador</li>
-	<li>[ ] seleciona o pacote</li>
-	<li>[ ] envia mensagem para o vendedor e cliente</li>
+<blockquote><li>[ ] Selecionar o pacote</li></blockquote>
+<blockquote><li>[ ] Enviar mensagem para o vendedor e o cliente</li></blockquote>
 <li>[ ] Cadastro cliente</li>
-	<li>[ ] envia mensagem para o entregador</li>
-  
+<blockquote><li>[ ] Enviar mensagem para o entregador e o vendedor</li></blockquote>
+<li>[ ] Pagamento via cartão de crédito </li>
 <li>[ ] Os usuários podem se cadastrar também na plataforma web, onde podem:</li>
-	<li>[ ] navegar pelo mapa para ver os pacotes disponíveis</li>
-	<li>[ ] entrar em contato com o entregador através de mensagens (chat) ou pelo WhatsApp</li>
+<blockquote><li>[ ] Navegar pelo mapa para ver os pacotes disponíveis</li></blockquote>
+<blockquote><li>[ ] Entrar em contato com o entregador através de mensagens (chat) ou pelo WhatsApp</li></blockquote>
 </ul>
 	
 ---
@@ -68,9 +68,21 @@
 <h4 align="left"> Mobile (em construção)</h4>   
 
 <p align="left">
-  <img alt="" title="" src="" width="">
+  <img title="tela_main 01" src="https://user-images.githubusercontent.com/86272763/171769102-39820563-496c-4bfe-8b6b-cfe288106ccd.jpg" width="200px">
 
-  <img alt="" title="#" src="" width="">
+  <img title="tela_usuario 02" src="https://user-images.githubusercontent.com/86272763/171769465-36eb2be6-3729-4d49-8eb0-fce6f73ea18f.jpg" width="200px">
+	
+  <img title="tela_login 03" src="https://user-images.githubusercontent.com/86272763/171769685-bcd84850-fbd8-44ac-b32f-0b5dc52c2a45.jpg" width="200px">
+	
+  <img title="tela_home 04" src="https://user-images.githubusercontent.com/86272763/171769777-5bb8c022-6eaa-4e9f-b45a-8aad21146430.jpg" width="200px">
+	
+  <img title="tela_lista_pacote 05" src="https://user-images.githubusercontent.com/86272763/171769884-45a2f642-baed-4f36-9cfe-4bf409b0cee8.jpg" width="200px">
+	
+  <img title="tela_resumo_pacote 08" src="https://user-images.githubusercontent.com/86272763/171770342-38a5546d-e4d2-401d-9723-73c6c1176c33.jpg" width="200px">
+	
+  <img title="tela_pagamento 06" src="https://user-images.githubusercontent.com/86272763/171770015-33e7401e-44bc-499e-8b32-711501877d91.jpg" width="200px">
+	
+  <img title="tela_resumo_compra 07" src="https://user-images.githubusercontent.com/86272763/171770091-c6387d9b-159d-47eb-9c9b-6565a6cbea54.jpg" width="200px">
 </p>
 
 <h4 align="left"> Web (em construção)</h4>  
@@ -107,7 +119,7 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 
 <h4 align="left"> <b> Mobile<b/> </h4>
 <ul align="left">
-<li> Java versão 11.0.12 </li>
+<li> Java SE versão 11.0.14 </li>
 <li> SQLite DB </li>
 </ul>
 
@@ -129,7 +141,7 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 <h3 align="left"> 💪 Como contribuir para o projeto </h3>
 
 <ol align="left" type='1'>
-  <li> Faça um <b>fork</b> do projeto.</li>
+  <li> Faça um <b>fork</b> do projeto</li>
   <li> Crie uma nova branch com as suas alterações: <code>git checkout -b my-feature </code></li>
   <li> Salve as alterações e crie uma mensagem de commit contando o que você fez: <code> git commit -m "feature: My new feature"</code></li>
   <li> Envie as suas alterações: <code>git push origin my-feature</code></li>
