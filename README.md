@@ -1,4 +1,4 @@
-<br>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/86272763/171529569-dbd5cb80-5996-4381-9046-82ad0bfcd1c3.png" width="200px" />
 
@@ -58,7 +58,7 @@
 ---
 	
 <h3 id="-layout" align="left"> 🎨 Layout </h3>  
-<p align="left"> O layout da aplicação está disponível no Figma: </p>
+<p align="left"> O layout da aplicação está disponível no Figma: <b>(em breve)</b></p>
 
 <a href="">
   <img alt="" src="">
@@ -142,7 +142,18 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 	
 ---
 
-<h3 align="left"> 🦸 Autor </h3>
+<h3 id="-autor" align="left"> 🦸 Autor </h3>
+
+<div align="left">
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/86272763/171772347-8bd95227-160a-492d-87ad-5bbcc39fd54a.jpeg" width="100px" />
+
+---
+	
+<h3 id="user-content--licença" align="left"> 📝 Licença </h3>
+
+<p align="left"> Este projeto está sobre a licença MIT. </p><br>
+	
+<p align="left">👋🏽 Realizado com todo ❤️ por Gerardus Rocha. <a href="https://www.linkedin.com/in/gerardus-fernandes-de-lima-rocha-07a723149/"> Entre em contato! </a></p>
 
 
 
