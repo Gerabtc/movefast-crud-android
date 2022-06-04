@@ -58,13 +58,13 @@
 ---
 	
 <h3 id="-layout" align="left"> 🎨 Layout </h3>  
-<p align="left"> O layout da aplicação está disponível no Figma: <b>(em breve)</b></p>
+<p align="left"> O layout da aplicação está disponível no Figma: </p>
 
-<a href="">
-  <img alt="" src="">
+<a href="https://www.figma.com/file/0eai7z0rdtL2IN5EIHKhkY/wareframe-movefast-android?node-id=0%3A1">
+  <img align="left" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-
+<br>
 <h4 align="left"> Mobile </h4>   
 
 <p align="left">
