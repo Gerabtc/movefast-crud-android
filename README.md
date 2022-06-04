@@ -145,15 +145,23 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 <h3 id="-autor" align="left"> 🦸 Autor </h3>
 
 <div align="left">
-<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/86272763/171772347-8bd95227-160a-492d-87ad-5bbcc39fd54a.jpeg" width="100px" />
+<img style="border-radius: 50%" src="https://user-images.githubusercontent.com/86272763/171772347-8bd95227-160a-492d-87ad-5bbcc39fd54a.jpeg" width="100px" />
+<br><sub>  Gerardus Rocha. </sub>
 
+ <sub> <a href="https://www.youtube.com/c/GeraProfissaoTrader" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </sub>
+  <a href="https://www.instagram.com/gerardusrocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/gerabitcoin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/Gerardus#8712" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rochagerardus1977@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gerardus-fernandes-de-lima-rocha-07a723149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	
 ---
 	
 <h3 id="user-content--licença" align="left"> 📝 Licença </h3>
 
 <p align="left"> Este projeto está sobre a licença MIT. </p><br>
 	
-<p align="left">👋🏽 Realizado com todo ❤️ por Gerardus Rocha. <a href="https://www.linkedin.com/in/gerardus-fernandes-de-lima-rocha-07a723149/"> Entre em contato! </a></p>
+
 
 
 
